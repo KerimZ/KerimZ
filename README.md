@@ -8,4 +8,4 @@ Hey, I'm a security engineer working at LYNX B.V. (online broker) in Berlin, Ger
 * <b>Infrastructure</b>: Pipeline Automation, IaC, Cloud (AWS, GCP, Azure), K8s, Docker
 * <b>Other</b>: Cryptography Research, Web3/Smart Contracts, Blockchain/DLT, Self-Sovereign-Identity, VC/DID
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KerimZ&theme=dracula&langs_count=10&hide_title=true&border_radius=20&card_width=1000&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KerimZ&theme=dracula&langs_count=10&hide_title=true&border_radius=20&card_width=700&layout=default)](https://github.com/anuraghazra/github-readme-stats)
