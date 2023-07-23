@@ -1,7 +1,3 @@
-Hey, I'm a security engineer working at LYNX B.V. (online broker) in Berlin, Germany.
-
-[![Kerim's GitHub stats](https://github-readme-stats.vercel.app/api?username=KerimZ&show_icons=true&theme=dracula&border_radius=20&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-
 # Skills and Interests
 * <b>Languages</b>: Python, JavaScript (React, React Native, NodeJS), Rust, Solidity, Java (Spring), C, Shell
 * <b>Application Security</b>: OWASP 10, ASVS, DAST/SAST, Threat Modeling, Code Review, Pentesting, Applied Cryptography, DevSecOps
